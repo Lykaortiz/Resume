@@ -49,3 +49,30 @@
 		</body>
 	</header>
 </html>
+
+
+
+
+*
+body{
+	border-style: solid;
+	border-color: skyblue;
+	background-color: gray;
+	background-size: cover;
+}
+
+h1{
+	color: black;
+}
+
+h5{
+	color: black;
+}
+h4{
+	color: black;
+	background-color: skyblue;
+	background-size: 20px;
+}
+p{
+	color: black;
+}
